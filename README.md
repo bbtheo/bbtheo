@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Theo Blauberg
-- 👀 I’m interested in macroeconomics and machine learning. I'm currently a master student in economics and data science in univeristy of Helsinki. 
-- 📫 How to reach me at my twitter @BlaubergTheo. 
+- 👀 My interests include macroeconomics and machine learning. At the moment I'm a master's student in data science at the University of Helsinki. 
 
 <!---
 bbtheo/bbtheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
