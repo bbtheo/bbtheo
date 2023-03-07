@@ -3,9 +3,9 @@
 ### About Me
 - 🎓 Master's student in Data Science at the University of Helsinki. 
 - 💻 Working as a Data Analyst in the VATT Dataroom.
-- 🌱 Currently learning Julia.
-- 🤔 Intrigued with data visualization and Shiny apps.
 - 📊 Skilled in R and Python.
+- 🤔 Intrigued with data visualization and Shiny apps.
+- 🌱 Currently learning Julia.
 
 ### Skills
 
