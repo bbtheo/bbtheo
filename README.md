@@ -17,8 +17,8 @@
     
 ### Contact
 
-- 📧 Email: [theo.blauberg@helsinki.fi]
-- 💬 LinkedIn:[https://www.linkedin.com/in/theo-blauberg/]
+- 📧 Email: [theo.blauberg@helsinki.fi](theo.blauberg@helsinki.fi)
+- 💬 LinkedIn:[https://www.linkedin.com/in/theo-blauberg/](https://www.linkedin.com/in/theo-blauberg/)
 - 🐦 Twitter: [@BlaubergTheo](https://twitter.com/BlaubergTheo)
 
 Feel free to reach out to me if you have any questions or if you want to collaborate on a project.
