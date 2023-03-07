@@ -1,4 +1,4 @@
-#Hi there, I'm Theo 👋
+# Hi there, I'm Theo 👋
 
 ### About Me
 -🎓 Master's student in Data Science at the University of Helsinki.
@@ -17,9 +17,9 @@
     
 ### Contact
 
-    📧 Email: (theo.blauberg@helsinki.fi)[theo.blauberg@helsinki.fi]
-    💬 LinkedIn:(https://www.linkedin.com/in/theo-blauberg/)[https://www.linkedin.com/in/theo-blauberg/ 
-    🐦 Twitter: (@BlaubergTheo)[https://twitter.com/BlaubergTheo]
+  -📧 Email: (theo.blauberg@helsinki.fi)[theo.blauberg@helsinki.fi]
+  -💬 LinkedIn:(https://www.linkedin.com/in/theo-blauberg/)[https://www.linkedin.com/in/theo-blauberg/ 
+  -🐦 Twitter: (@BlaubergTheo)[https://twitter.com/BlaubergTheo]
 
 Feel free to reach out to me if you have any questions or if you want to collaborate on a project.
 
