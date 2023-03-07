@@ -1,4 +1,27 @@
-At the moment I'm a master's student in data science at the University of Helsinki also working as a Data Analyst in the VATT Dataroom. 
+#Hi there, I'm Theo 👋
+
+### About Me
+-🎓 Master's student in Data Science at the University of Helsinki.
+-💻 Working as a Data Analyst in the VATT Dataroom.
+-🌱 Currently learning Julia.
+-🤔 Intrigued with data visualization and Shiny apps.
+-📊 Skilled in R and Python.
+
+### Skills
+
+- R
+- Python
+- Julia (Soon)
+- Data visualization
+- Shiny apps
+    
+### Contact
+
+    📧 Email: (theo.blauberg@helsinki.fi)[theo.blauberg@helsinki.fi]
+    💬 LinkedIn:(https://www.linkedin.com/in/theo-blauberg/)[https://www.linkedin.com/in/theo-blauberg/ 
+    🐦 Twitter: (@BlaubergTheo)[https://twitter.com/BlaubergTheo]
+
+Feel free to reach out to me if you have any questions or if you want to collaborate on a project.
 
 <!---
 bbtheo/bbtheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
