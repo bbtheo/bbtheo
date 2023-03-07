@@ -2,6 +2,7 @@
 
 ### About Me
 - 🎓 Master's student in Data Science at the University of Helsinki. 
+   - I am also a recent graduate of a Master's programme in Economics. If you are interested, you can find a copy of my thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).   
 - 💻 Working as a Data Analyst in the VATT Dataroom.
 - 📊 Skilled in R and Python.
 - 🤔 Intrigued with data visualization and Shiny apps.
