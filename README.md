@@ -1,26 +1,29 @@
-# Hi there, I'm Theo 👋
+# Hello! I'm Theo, a Data Science Enthusiast 👋
 
 ### About Me
-- 🎓 Master's student in Data Science at the University of Helsinki. 
-   - I am also a recent graduate of a Master's programme in Economics. If you are interested, you can find a copy of my thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).   
-- 💻 Working as a Data Analyst in the VATT Dataroom.
-- 📊 Skilled in R and Python.
-- 🤔 Intrigued with data visualization and Shiny apps.
-- 🌱 Currently learning Julia.
+- 🎓 Currently pursuing a Master's in Data Science at the University of Helsinki.
+   - I also hold a Master's degree in Economics. If you're curious, take a look at my thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).
+- 💼 Working as a Data Analyst at the VATT Dataroom.
+- 📊 Proficient in R and Python for data analysis and manipulation.
+- 🎨 Passionate about data visualization and creating user-friendly Shiny apps.
+- 🌱 Actively learning Julia to expand my skillset.
 
 ### Skills
 
 - R
 - Python
-- Julia (Soon)
+- Julia (In progress)
 - Data visualization
 - Shiny apps
-    
-### Contact
+
+### Connect with me
 
 - 📧 Email: [theo.blauberg@helsinki.fi](theo.blauberg@helsinki.fi)
-- 💬 LinkedIn:[https://www.linkedin.com/in/theo-blauberg/](https://www.linkedin.com/in/theo-blauberg/)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/theo-blauberg/](https://www.linkedin.com/in/theo-blauberg/)
 - 🐦 Twitter: [@BlaubergTheo](https://twitter.com/BlaubergTheo)
+
+Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. I'm always eager to connect with fellow data enthusiasts!
+
 
 Feel free to reach out to me if you have any questions or if you want to collaborate on a project.
 
