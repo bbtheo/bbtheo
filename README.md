@@ -4,6 +4,7 @@
 - 🎓 Currently pursuing a Master's in Data Science at the University of Helsinki.
    - I also hold a Master's degree in Economics. If you're curious, take a look at my thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).
 - 💼 Working as a Data Analyst at the VATT Dataroom.
+   - Occupied in developing the shinyapp-based [website](https://datahuone.shinyapps.io/dataholvi/).   
 - 📊 Proficient in R and Python for data analysis and manipulation.
 - 🎨 Passionate about data visualization and creating user-friendly Shiny apps.
 - 🌱 Actively learning Julia to expand my skillset.
