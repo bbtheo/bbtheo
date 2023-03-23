@@ -1,4 +1,4 @@
-# Hello! I'm Theo, a Data Science Enthusiast 👋
+# Hello! I'm Theo👋
 
 ### About Me
 - 🎓 Currently pursuing a Master's in Data Science at the University of Helsinki.
