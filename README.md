@@ -1,6 +1,4 @@
-# Hello! I'm Theo👋
-
-### About Me
+## About Me
 - 🎓 Currently pursuing a Master's in Data Science at the University of Helsinki.
    - Take a look at my previous thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).
 - 💼 Worked as a Data Analyst at the VATT Dataroom.
@@ -8,7 +6,7 @@
 - 📊 R and Python.
 
 
-### Skills
+## Skills
 
 - R
 - Python
@@ -16,7 +14,7 @@
 - Data visualization
 - Shiny apps
 
-### Connect with me
+## Connect with me
 
 - 📧 Email: [theo.blauberg@helsinki.fi](theo.blauberg@helsinki.fi)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/theo-blauberg/](https://www.linkedin.com/in/theo-blauberg/)
