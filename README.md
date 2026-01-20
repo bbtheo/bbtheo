@@ -1,26 +1,23 @@
-## About Me
-- 🎓 Currently pursuing a Master's in Data Science at the University of Helsinki.
-   - Take a look at my previous thesis [here](https://github.com/bbtheo/gradu/blob/main/docs/bookdown-thesis.pdf).
-- 💼 Worked as a Data Analyst at the VATT Dataroom.
-   - Occupied in developing the shinyapp-based [website](https://datahuone.shinyapps.io/dataholvi/).   
-- 📊 R and Python.
+# Theo Blauberg
 
+Data Science MSc student @ University of Helsinki,
+Senior Analytics Engineer @ Nordea
 
-## Skills
+## Projects
 
-- R
-- Python
-- Julia (In progress)
-- Data visualization
-- Shiny apps
+- [cuplr](https://github.com/bbtheo/cuplr) — GPU-accelerated dplyr backend via libcudf
+- [ds-thesis](https://github.com/bbtheo/ds-thesis) — Master's thesis in data science (WIP)
+- [gradu](https://github.com/bbtheo/gradu) — Master's thesis in economics
+- [shiny_app](https://github.com/datahuone/shiny_app) — VATT Dataroom dashboard
 
-## Connect with me
+## Links
 
-- 📧 Email: [theo.blauberg@helsinki.fi](theo.blauberg@helsinki.fi)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/theo-blauberg/](https://www.linkedin.com/in/theo-blauberg/)
-- 🐦 Twitter: [@BlaubergTheo](https://twitter.com/BlaubergTheo)
+[Email](mailto:theo.blauberg@outlook.com)
 
-Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project.
+## Currently
+
+- Creating a new GPU backend for dplyr
+- Writing my DS thesis on how CNN can catch fraud by looking at transaction pictures
 
 <!---
 bbtheo/bbtheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
