@@ -1,7 +1,8 @@
 # Theo Blauberg
 
-Data Science MSc student @ University of Helsinki,
-Senior Analytics Engineer @ Nordea
+Data Science MSc student @University of Helsinki,
+
+Senior Analytics Engineer @Nordea
 
 ## Projects
 
