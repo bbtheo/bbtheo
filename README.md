@@ -6,7 +6,7 @@ Senior Analytics Engineer @Nordea
 
 ## Projects
 
-- [cuplr](https://github.com/bbtheo/cuplr) — GPU-accelerated dplyr backend via libcudf
+- [cuplyr](https://github.com/bbtheo/cuplyr) — GPU-accelerated dplyr backend via libcudf
 - [ds-thesis](https://github.com/bbtheo/ds-thesis) — Master's thesis in data science (WIP)
 - [gradu](https://github.com/bbtheo/gradu) — Master's thesis in economics
 - [shiny_app](https://github.com/datahuone/shiny_app) — VATT Dataroom dashboard
